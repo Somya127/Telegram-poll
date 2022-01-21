@@ -1,0 +1,489 @@
+QUEST,option1,option2,option3,option4,option5,answer,,,,,Options,Answers,Questions
+"What will come in place of question mark (?) in the following number series?
+
+0.8, 4.6, 14, 49, ?, 709",145,213,176,209,311,3,[,",","""",],"[""145"",""213"",""176"",""209"",""311""]",2,"""What will come in place of question mark (?) in the following number series?
+
+0.8, 4.6, 14, 49, ?, 709"""
+"What will come in place of question mark (?) in the following number series?
+
+125, ?, 195, 250, 321, 410",154,149,136,165,175,1,,,,,"[""154"",""149"",""136"",""165"",""175""]",0,"""What will come in place of question mark (?) in the following number series?
+
+125, ?, 195, 250, 321, 410"""
+"What will come in place of question mark (?) in the following number series?
+
+130, 222, 350, 520, 738, ?",944,1024,1010,850,1244,3,,,,,"[""944"",""1024"",""1010"",""850"",""1244""]",2,"""What will come in place of question mark (?) in the following number series?
+
+130, 222, 350, 520, 738, ?"""
+"What will come in place of question mark (?) in the following number series?
+
+5, 9, 25, 89, ?",214,320,284,312,345,5,,,,,"[""214"",""320"",""284"",""312"",""345""]",4,"""What will come in place of question mark (?) in the following number series?
+
+5, 9, 25, 89, ?"""
+"What will come in place of question mark (?) in the following number series?
+
+748, 627, ?, ­946, ­2882, ­5907",134,143,124,143,None of these,4,,,,,"[""134"",""143"",""124"",""143"",""None of these""]",3,"""What will come in place of question mark (?) in the following number series?
+
+748, 627, ?, ­946, ­2882, ­5907"""
+"A man deposited a total amount of Rs 25300 with a bank in two different schemes at 20% per annum interest being compounded annually. As per the schemes, he gets the same amount after 4 years on the first deposit as he gets after 3 years on the second deposit. How much money did he deposit for 4 years?","12,000","15,450","16,620","14,440","13,800",5,,,,,"[""12000"",""15450"",""16620"",""14440"",""13800""]",4,"""A man deposited a total amount of Rs 25300 with a bank in two different schemes at 20% per annum interest being compounded annually. As per the schemes, he gets the same amount after 4 years on the first deposit as he gets after 3 years on the second deposit. How much money did he deposit for 4 years?"""
+A wire is looped in the form of a circle of diameter 28cm. It is re bent in a shape of a square. Find the area of the square,400 cm^2,484 cm^2,961 cm^2,983 cm^2,474 cm^2,2,,,,,"[""400 cm^2"",""484 cm^2"",""961 cm^2"",""983 cm^2"",""474 cm^2""]",1,"""A wire is looped in the form of a circle of diameter 28cm. It is re bent in a shape of a square. Find the area of the square"""
+"Ankush and Pritam can do a work in 12 days while Preetam and Ashwini can complete the same work in 10 days. Preetam is 20% less efficient than Ashwini, then in how many days will all the three working together will complete the same work?",7.5 days,7.2 days,8.5 days,9 days,9.2 days,2,,,,,"[""7.5 days"",""7.2 days"",""8.5 days"",""9 days"",""9.2 days""]",1,"""Ankush and Pritam can do a work in 12 days while Preetam and Ashwini can complete the same work in 10 days. Preetam is 20% less efficient than Ashwini, then in how many days will all the three working together will complete the same work?"""
+One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is either a black card or queen card.,May-18,Jul-13,02-Sep,15/26,Sep-26,2,,,,,"[""44334"",""44390"",""44441"",""15/26"",""44465""]",1,"""One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is either a black card or queen card."""
+In two alloys A and B the ratio of zinc to Copper is is 4 : 5 and 2 : 7 respectively. 18 kg of alloy A and 45 kg of the alloy B are mixed together to form a new alloy. What will be the ratio of zinc and copper in the new alloy?,4:05,2:05,3:07,2:03,5:04,2,,,,,"[""0.170138888888889"",""0.0868055555555556"",""0.129861111111111"",""0.0854166666666667"",""0.211111111111111""]",1,"""In two alloys A and B the ratio of zinc to Copper is is 4 : 5 and 2 : 7 respectively. 18 kg of alloy A and 45 kg of the alloy B are mixed together to form a new alloy. What will be the ratio of zinc and copper in the new alloy?"""
+"Study the following table to answer the question below. In the following line graph show the scored runs by a batsman in 7 one day matches in three series.
+For every match in which the batsman scored more than 50 runs, that team won the match. What is the percentage (approx.) of matches won by the team in all the three series taken together?",85%,90%,80%,75%,Cannot be determined,5,,,,,"[""0.85"",""0.9"",""0.8"",""0.75"",""Cannot be determined""]",4,"""Study the following table to answer the question below. In the following line graph show the scored runs by a batsman in 7 one day matches in three series.
+For every match in which the batsman scored more than 50 runs, that team won the match. What is the percentage (approx.) of matches won by the team in all the three series taken together?"""
+In how many ODI of series 2 to the number of runs scored is more than the average Run scored in the series 2?,1,2,3,4,5,2,,,,,"[""1"",""2"",""3"",""4"",""5""]",1,"""In how many ODI of series 2 to the number of runs scored is more than the average Run scored in the series 2?"""
+In which ODI the difference between the runs scored in series 1 and series 3 is minimum?,ODI 1,ODI 2,ODI 4,ODI 3,ODI 5,4,,,,,"[""ODI 1"",""ODI 2"",""ODI 4"",""ODI 3"",""ODI 5""]",3,"""In which ODI the difference between the runs scored in series 1 and series 3 is minimum?"""
+Average runs scored by the batsman in series 3 are approximately what percent of the average runs scored by the batsman in series2?,90%,93%,95%,97%,99%,2,,,,,"[""0.9"",""0.93"",""0.95"",""0.97"",""0.99""]",1,"""Average runs scored by the batsman in series 3 are approximately what percent of the average runs scored by the batsman in series2?"""
+"For which of the following pair of ODI, the runs scored in all the three series together are equal?",ODI 3 & ODI 6,ODI 4 & ODI 6,ODI 5 & ODI 6,ODI 4 & ODI 6,ODI 3 & ODI 4,5,,,,,"[""ODI 3 & ODI 6"",""ODI 4 & ODI 6"",""ODI 5 & ODI 6"",""ODI 4 & ODI 6"",""ODI 3 & ODI 4""]",4,"""For which of the following pair of ODI, the runs scored in all the three series together are equal?"""
+"Read the following information carefully to answer the question asked.
+Following pie chart shows the information about the percentage of population distribution of five villages and the table shows the ratio of male­female and literate and illiterates in these villages.
+Find the ratio between the numbers of females in village A to the number of literates in village C.",7:03,3:07,10:03,3:10,None of these,3,,,,,"[""0.29375"",""0.129861111111111"",""0.41875"",""0.131944444444444"",""None of these""]",2,"""Read the following information carefully to answer the question asked.
+Following pie chart shows the information about the percentage of population distribution of five villages and the table shows the ratio of male­female and literate and illiterates in these villages.
+Find the ratio between the numbers of females in village A to the number of literates in village C."""
+Find the difference between the total number of illiterates and total number of literates from village D if total population of village A is 200.,120,200,250,175,None of these,5,,,,,"[""120"",""200"",""250"",""175"",""None of these""]",4,"""Find the difference between the total number of illiterates and total number of literates from village D if total population of village A is 200."""
+"If number of women in village B is 360 less than the number of men, then find the difference of literate and illiterate population of village E.",40,60,50,80,None of these,2,,,,,"[""40"",""60"",""50"",""80"",""None of these""]",1,"""If number of women in village B is 360 less than the number of men, then find the difference of literate and illiterate population of village E."""
+"Find the total number of literates in village A, C & D if total population of all five villages is 2400.",840,720,600,920,None of these,1,,,,,"[""840"",""720"",""600"",""920"",""None of these""]",0,"""Find the total number of literates in village A, C & D if total population of all five villages is 2400."""
+Find the ratio of number of literates and illiterates taking village B & E together?,123 : 77,159 : 84,143 : 97,216 : 187,None of these,3,,,,,"[""123 : 77"",""159 : 84"",""143 : 97"",""216 : 187"",""None of these""]",2,"""Find the ratio of number of literates and illiterates taking village B & E together?"""
+Fresh nuts contain 80% water by weight where as dry nuts contain 50% water weight. Suresh buys 60kg of fresh nuts for a total price of Rs 200. At what price per kg should he sell the dry nuts (fresh nuts are dried up) to earn 20% profit?,rs10/kg,rs12/kg,rs15/kg,rs14/kg,rs18/kg,1,,,,,"[""rs10/kg"",""rs12/kg"",""rs15/kg"",""rs14/kg"",""rs18/kg""]",0,"""Fresh nuts contain 80% water by weight where as dry nuts contain 50% water weight. Suresh buys 60kg of fresh nuts for a total price of Rs 200. At what price per kg should he sell the dry nuts (fresh nuts are dried up) to earn 20% profit?"""
+A train overtakes two persons who are walking in same direction as the train is moving at the rate of 2 km/hrs and 4 km/hrs and a train passes them completely 8 & 9 sec respectively. Find the speed of the train,35 km/hr,45 km/hr,20 km/hr,data inadequate,None of these,3,,,,,"[""35 km/hr"",""45 km/hr"",""20 km/hr"",""data inadequate"",""None of these""]",2,"""A train overtakes two persons who are walking in same direction as the train is moving at the rate of 2 km/hrs and 4 km/hrs and a train passes them completely 8 & 9 sec respectively. Find the speed of the train"""
+The difference between the compound and simple interest on a certain sum of money for 3 yrs at per annum to rupees rs 184. Find out the sum?,Rs. 13500,Rs. 12500,Rs. 10500,Rs. 11500,None of these,1,,,,,"[""Rs. 13500"",""Rs. 12500"",""Rs. 10500"",""Rs. 11500"",""None of these""]",0,"""The difference between the compound and simple interest on a certain sum of money for 3 yrs at per annum to rupees rs 184. Find out the sum?"""
+"The average height of three boys A, B & C is 120cms and their heights are in proportion of 8: 7: 5 respectively. What is the height of B in cms?",120,126,90 0,84,None of these,4,,,,,"[""120"",""126"",""90 0"",""84"",""None of these""]",3,"""The average height of three boys A, B & C is 120cms and their heights are in proportion of 8: 7: 5 respectively. What is the height of B in cms?"""
+The area of square is 4/3 that of triangle. If area of square is 1024 square.cm. and breadth of rectangle is 12cm the what is the difference between length of the rectangle and side of the square?,18cm,20cm,16cm,24cm,None of these,5,,,,,"[""18cm"",""20cm"",""16cm"",""24cm"",""None of these""]",4,"""The area of square is 4/3 that of triangle. If area of square is 1024 square.cm. and breadth of rectangle is 12cm the what is the difference between length of the rectangle and side of the square?"""
+Choose the correctly spelled word?,Questionaire,Questtionnaire,Questionnaire,All are Misspelled,3,,,,,,"[""Questionaire"",""Questtionnaire"",""Questionnaire"",""All are Misspelled""]",2,"""Choose the correctly spelled word?"""
+Choose the correctly spelled word?,Orphanege,Orphanage,Orphannage,All are Misspelled,2,,,,,,"[""Orphanege"",""Orphanage"",""Orphannage"",""All are Misspelled""]",1,"""Choose the correctly spelled word?"""
+Choose the correctly spelled word?,Mysterious,Mystreious,Mysterioos,All are Misspelled,1,,,,,,"[""Mysterious"",""Mystreious"",""Mysterioos"",""All are Misspelled""]",0,"""Choose the correctly spelled word?"""
+"Charles Lamb’s prose is richly ____ with literary ornaments like similes, metaphors, alliterations, transferred epithets, etc.",embroidered,embellished,saturated,embalmed,,2,,,,,"[""embroidered"",""embellished"",""saturated"",""embalmed""]",1,"""Charles Lamb’s prose is richly ____ with literary ornaments like similes, metaphors, alliterations, transferred epithets, etc."""
+We decided to take the shortest ________ to our ____,"distance, place","route, residence","root, house","route, destination",2,,,,,,"[""distance, place"",""route, residence"",""root, house"",""route, destination""]",1,"""We decided to take the shortest ________ to our ____"""
+The security forces fired at the ___ who was armed to the ____,"dacoit, teeth","criminal, toe","thief, head","culprit, nail",,2,,,,,"[""dacoit, teeth"",""criminal, toe"",""thief, head"",""culprit, nail""]",1,"""The security forces fired at the ___ who was armed to the ____"""
+Many tourists to India visit the beautiful ___ of Kashmir ____ in spring and summer.,"valley, especially","lakes, rarely","town, frequently","scenary, generally",1,,,,,,"[""valley, especially"",""lakes, rarely"",""town, frequently"",""scenary, generally""]",0,"""Many tourists to India visit the beautiful ___ of Kashmir ____ in spring and summer."""
+But for his ___ I would not have _____,"assistance, failed","help, succeeded","advice, lost","suggestion, won",2,,,,,,"[""assistance, failed"",""help, succeeded"",""advice, lost"",""suggestion, won""]",1,"""But for his ___ I would not have _____"""
+A glue produced by bees to ______ their hives appears to contain antibiotic substances.,design,build,structure,collect,,2,,,,,"[""design"",""build"",""structure"",""collect""]",1,"""A glue produced by bees to ______ their hives appears to contain antibiotic substances."""
+"Amongst the two brothers, Rohan being worthier often _____ the younger Mohan.",overshadows,subdues,dominates,eclipses,,1,,,,,"[""overshadows"",""subdues"",""dominates"",""eclipses""]",0,"""Amongst the two brothers, Rohan being worthier often _____ the younger Mohan."""
+The ties that bind a family together are so ______ that they can hardly withstand any strain.,tentative,twisted,tenacious,tenuous,,4,,,,,"[""tentative"",""twisted"",""tenacious"",""tenuous""]",3,"""The ties that bind a family together are so ______ that they can hardly withstand any strain."""
+The annual _____ of industrial products has risen enormously in recent years.,output,outcome,outbreak,outlay,,1,,,,,"[""output"",""outcome"",""outbreak"",""outlay""]",0,"""The annual _____ of industrial products has risen enormously in recent years."""
+Parliamentary democracy demands a discipline and _____ to the rules.,liability,subjection,obligation,adherence,,4,,,,,"[""liability"",""subjection"",""obligation"",""adherence""]",3,"""Parliamentary democracy demands a discipline and _____ to the rules."""
+"In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+It brings with it issues not only of cultural and (A) / managerial alterations, but rather various financial conflicts, (B) / such as internal disputes between the banks (C) / that could affect lending as well as recovery. (D) / No error (E)",A,B,C,D,E,2,,,,,"[""A"",""B"",""C"",""D""]",1,"""In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+It brings with it issues not only of cultural and (A) / managerial alterations, but rather various financial conflicts, (B) / such as internal disputes between the banks (C) / that could affect lending as well as recovery. (D) / No error (E)"""
+"In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+Issues could include something as simple as an internal (A) / hierarchical muddle to more direct and large conflicts like priority (B)/ of charge on securities in cases of common stressed assets, (C) / and the different recovery process being followed by each bank. (D) / No error (E)",A,B,C,D,E,2,,,,,"[""A"",""B"",""C"",""D""]",1,"""In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+Issues could include something as simple as an internal (A) / hierarchical muddle to more direct and large conflicts like priority (B)/ of charge on securities in cases of common stressed assets, (C) / and the different recovery process being followed by each bank. (D) / No error (E)"""
+"In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+It is necessary that resources be dedicated (A) / towards engaging competent teams (B) / from oversee and resolve issues arising (C) out of such a transition phase. (D) / No error (E)",A,B,C,D,E,3,,,,,"[""A"",""B"",""C"",""D""]",2,"""In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+It is necessary that resources be dedicated (A) / towards engaging competent teams (B) / from oversee and resolve issues arising (C) out of such a transition phase. (D) / No error (E)"""
+"In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+Global oil demand is muted against the backdrop in economic uncertainty (A) / and continuing trade frictions, and there has been (B) / a surge in petroleum output in the US and elsewhere, (C) / which should ease oil prices sooner rather than later. (D) / No error (E)",A,B,C,D,E,3,,,,,"[""A"",""B"",""C"",""D""]",2,"""In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+Global oil demand is muted against the backdrop in economic uncertainty (A) / and continuing trade frictions, and there has been (B) / a surge in petroleum output in the US and elsewhere, (C) / which should ease oil prices sooner rather than later. (D) / No error (E)"""
+"In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+The way ahead is for the government to (A) / fast forward long pending reform of (B) / oil marketing, so as to purposefully shore on (C) / investments and revamp market design in oil. / No error (E)",A,B,C,D,E,3,,,,,"[""A"",""B"",""C"",""D""]",2,"""In each of the following questions, a sentence is divided into four parts; (A), (B), (C) and (D). There may be an error in one of the parts, which makes the sentence grammatically or contextually incorrect. Choose the option with the part containing error.
+
+The way ahead is for the government to (A) / fast forward long pending reform of (B) / oil marketing, so as to purposefully shore on (C) / investments and revamp market design in oil. / No error (E)"""
+"In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+The cartoon triggered (A)/ widespread allegations (B)/ of racism (C)/ against the illustrator. (D)",A-stimulated,B-acclaim,C-xenophobia,D-versus,All of the above,2,,,,,"[""A-stimulated"",""B-acclaim"",""C-xenophobia"",""D-versus""]",1,"""In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+The cartoon triggered (A)/ widespread allegations (B)/ of racism (C)/ against the illustrator. (D)"""
+"In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+The army will continue to (A)/ monitor the performance of (B)/ all the athletes and prepare (C)/ them for the imminent games. (D)",A-persist,B-surveil,C-inculcate,D-foregone,None of the above,4,,,,,"[""A-persist"",""B-surveil"",""C-inculcate"",""D-foregone""]",3,"""In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+The army will continue to (A)/ monitor the performance of (B)/ all the athletes and prepare (C)/ them for the imminent games. (D)"""
+"In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+Vistara world will introduce (A)/ a live moving map (B)/ display that allows (C)/ passengers to track their aircraft. (D)",A-initiate,B-dynamic,C-quashes,D-trail,None of the above,3,,,,,"[""A-initiate"",""B-dynamic"",""C-quashes"",""D-trail""]",2,"""In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+Vistara world will introduce (A)/ a live moving map (B)/ display that allows (C)/ passengers to track their aircraft. (D)"""
+"In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+With heavy rains in (A)/ most parts of the state (B)/ Kharif sowing has been (C)/ most encouraging this year. (D)",A-hefty,B-greater,C-harvesting,D-promising,None of the above,3,,,,,"[""A-hefty"",""B-greater"",""C-harvesting"",""D-promising""]",2,"""In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+With heavy rains in (A)/ most parts of the state (B)/ Kharif sowing has been (C)/ most encouraging this year. (D)"""
+"In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+Over-optimistic bankers and (A)/ slowdown in government decison-making process (B)/ contributed to the (C)/ mounting bad loans. (D)",A-sanguine,B-retardation,C-lead,D-rising,None of the above,5,,,,,"[""A-sanguine"",""B-retardation"",""C-lead"",""D-rising""]",4,"""In each of the questions below, a sentence has been broken into four parts with one word highlighted in bold in each fragment. From the given options, identify the word which expresses a meaning opposite to the given sentence, with the highlighted word replaced by a word of the opposite meaning.
+
+Over-optimistic bankers and (A)/ slowdown in government decison-making process (B)/ contributed to the (C)/ mounting bad loans. (D)"""
+"Which of these words is closest in meaning to the word provided?
+
+Banish",exile,hate,fade,clean,,1,,,,,"[""exile"",""hate"",""fade"",""clean""]",0,"""Which of these words is closest in meaning to the word provided?
+
+Banish"""
+"Which of these words is closest in meaning to the word provided?
+
+Fraud",malcontent,argument,imposter,clown,,3,,,,,"[""malcontent"",""argument"",""imposter"",""clown""]",2,"""Which of these words is closest in meaning to the word provided?
+
+Fraud"""
+"Which of these words is closest in meaning to the word provided?
+
+Saccharine",leave,sweet,arid,quit,,2,,,,,"[""leave"",""sweet"",""arid"",""quit""]",1,"""Which of these words is closest in meaning to the word provided?
+
+Saccharine"""
+"Which of these words is closest in meaning to the word provided?
+
+Drag",sleepy,crush,proud,pull,,4,,,,,"[""sleepy"",""crush"",""proud"",""pull""]",3,"""Which of these words is closest in meaning to the word provided?
+
+Drag"""
+"Which of these words is closest in meaning to the word provided?
+
+Jovial",incredulous,merry,revolting,dizzy,,2,,,,,"[""incredulous"",""merry"",""revolting"",""dizzy""]",1,"""Which of these words is closest in meaning to the word provided?
+
+Jovial"""
+"Which of these words is most nearly the opposite of the word provided?
+
+Pit",group,peak,select,marry,,2,,,,,"[""group"",""peak"",""select"",""marry""]",1,"""Which of these words is most nearly the opposite of the word provided?
+
+Pit"""
+"Which of these words is most nearly the opposite of the word provided?
+
+Rotund",round,unimportant,thin,dull,,3,,,,,"[""round"",""unimportant"",""thin"",""dull""]",2,"""Which of these words is most nearly the opposite of the word provided?
+
+Rotund"""
+"Which of these words is most nearly the opposite of the word provided?
+
+Talent",ungrateful,silent,show,inability,,4,,,,,"[""ungrateful"",""silent"",""show"",""inability""]",3,"""Which of these words is most nearly the opposite of the word provided?
+
+Talent"""
+"Which of these words is most nearly the opposite of the word provided?
+
+Common",strange,uneasy,quick,fast,,1,,,,,"[""strange"",""uneasy"",""quick"",""fast""]",0,"""Which of these words is most nearly the opposite of the word provided?
+
+Common"""
+"Which of these words is most nearly the opposite of the word provided?
+
+Brazen",bashful,boisterous,noisy,heated,,1,,,,,"[""bashful"",""boisterous"",""noisy"",""heated""]",0,"""Which of these words is most nearly the opposite of the word provided?
+
+Brazen"""
+Which among the following enzyme allows the cows to digest cellulose?,beta-lactase,alpha-amylase,beta-amylase,alpha-lactase,3,,,,,,"[""beta-lactase"",""alpha-amylase"",""beta-amylase"",""alpha-lactase""]",2,"""Which among the following enzyme allows the cows to digest cellulose?"""
+"Consider the following statements with reference to the active and passive immunity against the pathogens:
+1. Vaccines provide us passive immunity.
+2. Passive immunity can be acquired only artificially.
+
+Which among the above statements is/ are correct?",Only 1 is correct,Only 2 is correct,Both 1 and 2 are correct,Neither 1 nor 2 is correct,1,,,,,,"[""Only 1 is correct"",""Only 2 is correct"",""Both 1 and 2 are correct"",""Neither 1 nor 2 is correct""]",0,"""Consider the following statements with reference to the active and passive immunity against the pathogens:
+1. Vaccines provide us passive immunity.
+2. Passive immunity can be acquired only artificially.
+
+Which among the above statements is/ are correct?"""
+The ancestors of land plants were most likely similar to modern______:,Conifers,Ferns,Green Algae,Flowering Plants,3,,,,,,"[""Conifers"",""Ferns"",""Green Algae"",""Flowering Plants""]",2,"""The ancestors of land plants were most likely similar to modern______:"""
+"With reference to human blood, consider the following statements:
+1. The Red Blood Cells live for around 120 days.
+2. Both Red and White blood cells are formed in the bone marrow.
+The platelets are not cells.
+
+Which among the above statements is/are correct?",Only 1 and 2,Only 2 and 3,Only 1 and 3,"1, 2 and 3",,4,,,,,"[""Only 1 and 2"",""Only 2 and 3"",""Only 1 and 3"",""1, 2 and 3""]",3,"""With reference to human blood, consider the following statements:
+1. The Red Blood Cells live for around 120 days.
+2. Both Red and White blood cells are formed in the bone marrow.
+The platelets are not cells.
+
+Which among the above statements is/are correct?"""
+"How Potato and Sweet Potato are similar to each other?
+1. Both are underground stems.
+2. Both belong to same plant family.
+3. Both originated in Central America.
+
+Select the correct option from the codes given below:",Only 1 is correct,Only 2 and 3 are correct,Only 1 and 3 are correct,None is correct,4,,,,,,"[""Only 1 is correct"",""Only 2 and 3 are correct"",""Only 1 and 3 are correct"",""None is correct""]",3,"""How Potato and Sweet Potato are similar to each other?
+1. Both are underground stems.
+2. Both belong to same plant family.
+3. Both originated in Central America.
+
+Select the correct option from the codes given below:"""
+"In humans, fertilization normally occurs in __?",Ovary,Fallopian Tube,Uterus,Placenta,,2,,,,,"[""Ovary"",""Fallopian Tube"",""Uterus"",""Placenta""]",1,"""In humans, fertilization normally occurs in __?"""
+"Consider the following statements:
+1.Caffeine is found in Coffee, Cacao as well as tea
+2.Tea contains more caffeine than coffee by dry weight.
+
+Which among the above is / are correct statements?",Only 1,Only 2,Both 1 and 2,Neither 1 nor 2,3,,,,,,"[""Only 1"",""Only 2"",""Both 1 and 2"",""Neither 1 nor 2""]",2,"""Consider the following statements:
+1.Caffeine is found in Coffee, Cacao as well as tea
+2.Tea contains more caffeine than coffee by dry weight.
+
+Which among the above is / are correct statements?"""
+The animals of which of the following sets are collectively called as Elasmobranches?,"Shark, Skates and Rays","Shark, Rays and Dolphins","Shark, Skates and Dolphins","Skates, Dolphins and Rays",1,,,,,,"[""Shark, Skates and Rays"",""Shark, Rays and Dolphins"",""Shark, Skates and Dolphins"",""Skates, Dolphins and Rays""]",0,"""The animals of which of the following sets are collectively called as Elasmobranches?"""
+"The lung fluke disease (paragonimiasis) is sometimes confused with the tuberculosis. The lung fluke disease is__:
+1. caused by a round worm
+2. is found commonly in countries which use raw seafood
+3. is prevalent in North East India
+
+Which among the above is / are correct statements?",Only 1 and 2,Only 2 and 3,Only 1 and 3,"1, 2 and 3",,2,,,,,"[""Only 1 and 2"",""Only 2 and 3"",""Only 1 and 3"",""1, 2 and 3""]",1,"""The lung fluke disease (paragonimiasis) is sometimes confused with the tuberculosis. The lung fluke disease is__:
+1. caused by a round worm
+2. is found commonly in countries which use raw seafood
+3. is prevalent in North East India
+
+Which among the above is / are correct statements?"""
+"Various applications of the DNA sequencing include:
+1. Identifying a particular individual
+2. Diagnosis of genetic and non-genetic diseases
+3. Improve quality of livestock and crops
+4. Confirm and establish species identity
+
+Select the correct option from the codes given below:",Only 1 and 2,"Only 1, 2 and 3","Only 1, 3 and 4","1, 2, 3 and 4",,4,,,,,"[""Only 1 and 2"",""Only 1, 2 and 3"",""Only 1, 3 and 4"",""1, 2, 3 and 4""]",3,"""Various applications of the DNA sequencing include:
+1. Identifying a particular individual
+2. Diagnosis of genetic and non-genetic diseases
+3. Improve quality of livestock and crops
+4. Confirm and establish species identity
+
+Select the correct option from the codes given below:"""
+"Consider the following diseases:
+1. Kala-azar
+2. Chikungunya
+3. Filariasis
+
+The WHO's mandatory elimination list calls for elimination of which of the above by 2017 from India?",Only 1 and 2,Only 2 and 3,Only 1 and 3,"1, 2 and 3",,3,,,,,"[""Only 1 and 2"",""Only 2 and 3"",""Only 1 and 3"",""1, 2 and 3""]",2,"""Consider the following diseases:
+1. Kala-azar
+2. Chikungunya
+3. Filariasis
+
+The WHO's mandatory elimination list calls for elimination of which of the above by 2017 from India?"""
+"Which of the following is/are true fruits?
+1. Mango
+2. Apple
+3. Strawberry
+4. Pod of Groundnut
+
+Select the correct option from the codes given below:","Only 1, 3 and 4",Only 1 and 2,Only 1 and 4,"Only 1, 2 and 4",3,,,,,,"[""Only 1, 3 and 4"",""Only 1 and 2"",""Only 1 and 4"",""Only 1, 2 and 4""]",2,"""Which of the following is/are true fruits?
+1. Mango
+2. Apple
+3. Strawberry
+4. Pod of Groundnut
+
+Select the correct option from the codes given below:"""
+"‘Mosquitoes breed on stagnant water and their larvae keep floating on water’. When oil is sprinkled on the stagnant water, it results in the drowning and death of the larvae. Which of the following is the reason behind death of larvae?",Sprinkling of oil in water reduces surface tension of water,Sprinkling of oil in water increase surface tension of water,Sprinkling of oil in water increases viscosity of water,Sprinkling of oil in water cut of oxygen supply to larvae.,1,,,,,,"[""Sprinkling of oil in water reduces surface tension of water"",""Sprinkling of oil in water increase surface tension of water"",""Sprinkling of oil in water increases viscosity of water"",""Sprinkling of oil in water cut of oxygen supply to larvae.""]",0,"""‘Mosquitoes breed on stagnant water and their larvae keep floating on water’. When oil is sprinkled on the stagnant water, it results in the drowning and death of the larvae. Which of the following is the reason behind death of larvae?"""
+"Consider the following differences between RBCs and WBCs in human body:
+1.RBCs are smaller in size but larger in number compared to WBCs
+2.While RBCs do not have nucleus, WBCs have nucleus
+
+Which of the above statements is/are correct?",1 only,2 only,Both 1 and 2,Neither 1 nor 2,3,,,,,,"[""1 only"",""2 only"",""Both 1 and 2"",""Neither 1 nor 2""]",2,"""Consider the following differences between RBCs and WBCs in human body:
+1.RBCs are smaller in size but larger in number compared to WBCs
+2.While RBCs do not have nucleus, WBCs have nucleus
+
+Which of the above statements is/are correct?"""
+"The MMR vaccine is an immunization vaccine against:
+1. Rubeola
+2. Malaria
+3. Mumps
+4. Rubella
+
+Select the correct option from codes given below:","1, 2 and 3 only","2, 3 and 4 only","1, 3 and 4 only","1, 2 and 4 only",3,,,,,,"[""1, 2 and 3 only"",""2, 3 and 4 only"",""1, 3 and 4 only"",""1, 2 and 4 only""]",2,"""The MMR vaccine is an immunization vaccine against:
+1. Rubeola
+2. Malaria
+3. Mumps
+4. Rubella
+
+Select the correct option from codes given below:"""
+"Severe Acute Respiratory Syndrome (SARS):
+1. is also known as camel flu
+2. outbreak in 2016 was responsible for maximum deaths in Africa
+3. mainly spreads through respiratory secretions or body fluids
+
+Which of the above statements is/are correct?",1 only,2 and 3 only,2 only,3 only,,4,,,,,"[""1 only"",""2 and 3 only"",""2 only"",""3 only""]",3,"""Severe Acute Respiratory Syndrome (SARS):
+1. is also known as camel flu
+2. outbreak in 2016 was responsible for maximum deaths in Africa
+3. mainly spreads through respiratory secretions or body fluids
+
+Which of the above statements is/are correct?"""
+"Consider the following pairs:
+1. Pig flu – H1N1
+2. Dog flu – H3N8
+3. Camel flu – H6N1
+
+Which of the above is/are correct?",1 and 2 only,3 only,2 and 3 only,"1, 2 and 3",,1,,,,,"[""1 and 2 only"",""3 only"",""2 and 3 only"",""1, 2 and 3""]",0,"""Consider the following pairs:
+1. Pig flu – H1N1
+2. Dog flu – H3N8
+3. Camel flu – H6N1
+
+Which of the above is/are correct?"""
+Which organelle is associated with formation of basal granules & flagella?,Centrosome,Golgi apparatus,Mitochondria,Lysosome,,1,,,,,"[""Centrosome"",""Golgi apparatus"",""Mitochondria"",""Lysosome""]",0,"""Which organelle is associated with formation of basal granules & flagella?"""
+"Consider the following:
+1. Fructose
+2. Sucrose
+3. Lactose
+
+Which of the above are disaccharides?",1 and 2 only,2 and 3 only,1 and 3 only,"1, 2 and 3",,2,,,,,"[""1 and 2 only"",""2 and 3 only"",""1 and 3 only"",""1, 2 and 3""]",1,"""Consider the following:
+1. Fructose
+2. Sucrose
+3. Lactose
+
+Which of the above are disaccharides?"""
+ELISA test and Western blot test are conformity tests for?,Swine Flu,Bird Flu,AIDS,Chikungunya,3,,,,,,"[""Swine Flu"",""Bird Flu"",""AIDS"",""Chikungunya""]",2,"""ELISA test and Western blot test are conformity tests for?"""
+Which is the effect of increase in impurities on the surface tension of the liquid?,It increases,It decreases,It may increase or decrease,No change,,3,,,,,"[""It increases"",""It decreases"",""It may increase or decrease"",""No change""]",2,"""Which is the effect of increase in impurities on the surface tension of the liquid?"""
+Which of the following intermolecular forces enables us to write on the blackboard with a chalk?,Cohesive force,Adhesive force,Both 1 and 2,None,,2,,,,,"[""Cohesive force"",""Adhesive force"",""Both 1 and 2"",""None""]",1,"""Which of the following intermolecular forces enables us to write on the blackboard with a chalk?"""
+What is the angle of contact for pure water and glass?,0°,30°,180°,90°,,1,,,,,"[""0°"",""30°"",""180°"",""90°""]",0,"""What is the angle of contact for pure water and glass?"""
+Which of the following is the S.I. unit of density?,m-2,m-3,kg m-2,kg m-3,,4,,,,,"[""m-2"",""m-3"",""kg m-2"",""kg m-3""]",3,"""Which of the following is the S.I. unit of density?"""
+Which of the following instruments is used to measure the relative density of a liquid?,Hydrometer,Hygrometer,Lactometer,Gravitimeter,1,,,,,,"[""Hydrometer"",""Hygrometer"",""Lactometer"",""Gravitimeter""]",0,"""Which of the following instruments is used to measure the relative density of a liquid?"""
+Which of the following is the SI unit of Kinematic viscosity?,m3/s,kg/s,ms-1,m2/s,,4,,,,,"[""m3/s"",""kg/s"",""ms-1"",""m2/s""]",3,"""Which of the following is the SI unit of Kinematic viscosity?"""
+Which of these is a physical quantity which completely express the position and direction of motion of the particle?,Frequency,Displacement,Phase,Time Period,,3,,,,,"[""Frequency"",""Displacement"",""Phase"",""Time Period""]",2,"""Which of these is a physical quantity which completely express the position and direction of motion of the particle?"""
+What happens to the time period of the simple pendulum if the solid bob is replaced by a hollow sphere of same radius but half the mass?,time period becomes double,time period remains unchanged,time period becomes half,time period becomes four times,2,,,,,,"[""time period becomes double"",""time period remains unchanged"",""time period becomes half"",""time period becomes four times""]",1,"""What happens to the time period of the simple pendulum if the solid bob is replaced by a hollow sphere of same radius but half the mass?"""
+What do we call a motion which repeat itself over and over again after a regular interval of time?,Periodic Motion,Rotary Motion,Linear Motion,Rotational Motion,1,,,,,,"[""Periodic Motion"",""Rotary Motion"",""Linear Motion"",""Rotational Motion""]",0,"""What do we call a motion which repeat itself over and over again after a regular interval of time?"""
+Which of these is NOT an example of Periodic motion?,Revolution of earth around the sun,Rotation of earth about its polar axis,Motion of minute’s hand of a clock,None of the above,4,,,,,,"[""Revolution of earth around the sun"",""Rotation of earth about its polar axis"",""Motion of minute’s hand of a clock"",""None of the above""]",3,"""Which of these is NOT an example of Periodic motion?"""
+When are the two particles said to be in same phase?,if the phase difference between them is an even multiple of π,if the path difference is an even multiple of (λ/2),if the time interval is an even multiple of (T/2),All of the above,4,,,,,,"[""if the phase difference between them is an even multiple of π"",""if the path difference is an even multiple of (λ/2)"",""if the time interval is an even multiple of (T/2)"",""All of the above""]",3,"""When are the two particles said to be in same phase?"""
+What happens to the time period of the simple pendulum if the solid bob is replaced by a hollow sphere of same radius but half the mass?,time period becomes double,time period remains unchanged,time period becomes half,time period becomes four times,2,,,,,,"[""time period becomes double"",""time period remains unchanged"",""time period becomes half"",""time period becomes four times""]",1,"""What happens to the time period of the simple pendulum if the solid bob is replaced by a hollow sphere of same radius but half the mass?"""
+What is the motion in which a body moves to and fro repeatedly about a fixed point in a definite interval of time known as?,Circulatory Motion,Rotary Motion,Linear Motion,Oscillatory Motion,4,,,,,,"[""Circulatory Motion"",""Rotary Motion"",""Linear Motion"",""Oscillatory Motion""]",3,"""What is the motion in which a body moves to and fro repeatedly about a fixed point in a definite interval of time known as?"""
+What kinds of waves are the ultrasonic waves in air produced by a vibrating quartz crystal?,Transverse,Longitudinal,Transverse and longitudinal,None of the above,2,,,,,,"[""Transverse"",""Longitudinal"",""Transverse and longitudinal"",""None of the above""]",1,"""What kinds of waves are the ultrasonic waves in air produced by a vibrating quartz crystal?"""
+Which of the following electromagnetic waves in the EM spectrum has the highest wavelength?,X-rays,Visible,Infrared,UV-rays,,3,,,,,"[""X-rays"",""Visible"",""Infrared"",""UV-rays""]",2,"""Which of the following electromagnetic waves in the EM spectrum has the highest wavelength?"""
+What is the wavelength range of ultraviolet rays?,Between 40 nm and 40000 nm,Between 60 nm and 4000 nm,Between 0.0006 nm and 400 nm,Between 0.6 nm and 400 nm,4,,,,,,"[""Between 40 nm and 40000 nm"",""Between 60 nm and 4000 nm"",""Between 0.0006 nm and 400 nm"",""Between 0.6 nm and 400 nm""]",3,"""What is the wavelength range of ultraviolet rays?"""
+Which of the following waves are also called as heat waves?,UV Rays,X-rays,Infrared,Microwaves,,3,,,,,"[""UV Rays"",""X-rays"",""Infrared"",""Microwaves""]",2,"""Which of the following waves are also called as heat waves?"""
+What is the S.I. unit of absorptive power?,dioptre,metre,ampere,No unit,,4,,,,,"[""dioptre"",""metre"",""ampere"",""No unit""]",3,"""What is the S.I. unit of absorptive power?"""
+On which of the following the molar specific heat capacity of a substance depends?,Nature of the substance,Temperature of the substance,Both A and B,None,,3,,,,,"[""Nature of the substance"",""Temperature of the substance"",""Both A and B"",""None""]",2,"""On which of the following the molar specific heat capacity of a substance depends?"""
+"What do we call the temperature and pressure at which solid, liquid, and vapor phases of a particular substance coexist in equilibrium?",Equilibrium point,Triple point,Normal point,None of the above,2,,,,,,"[""Equilibrium point"",""Triple point"",""Normal point"",""None of the above""]",1,"""What do we call the temperature and pressure at which solid, liquid, and vapor phases of a particular substance coexist in equilibrium?"""
+What do we call the device which converts the chemical energy of a spontaneous redox reaction into electrical energy?,Galvanic cell,Fuel cell,Electrolytic cell,None of the above,1,,,,,,"[""Galvanic cell"",""Fuel cell"",""Electrolytic cell"",""None of the above""]",0,"""What do we call the device which converts the chemical energy of a spontaneous redox reaction into electrical energy?"""
+Which of the following acts as anode in a mercury cell?,paste of HgO and carbon,zinc – mercury amalgam,Copper and iron rod,None of the above,2,,,,,,"[""paste of HgO and carbon"",""zinc – mercury amalgam"",""Copper and iron rod"",""None of the above""]",1,"""Which of the following acts as anode in a mercury cell?"""
+Which of the following factors affect the electronic conductance of an electrolytic solution?,the nature of the electrolyte added,size of the ions produced and their solvation,the nature of the solvent and its viscosity,All of the above,4,,,,,,"[""the nature of the electrolyte added"",""size of the ions produced and their solvation"",""the nature of the solvent and its viscosity"",""All of the above""]",3,"""Which of the following factors affect the electronic conductance of an electrolytic solution?"""
+Which of the following represents the conductivity of the solution?,Cell constant x Resistance,Cell constant / Resistance,Cell constant x (Resistance)2,2 x Cell constant x Resistance,2,,,,,,"[""Cell constant x Resistance"",""Cell constant / Resistance"",""Cell constant x (Resistance)2"",""2 x Cell constant x Resistance""]",1,"""Which of the following represents the conductivity of the solution?"""
+What is the effect of increase in concentration on the Molar conductivity?,It increases,It decreases,It remains constant,None of the above,2,,,,,,"[""It increases"",""It decreases"",""It remains constant"",""None of the above""]",1,"""What is the effect of increase in concentration on the Molar conductivity?"""
+Which of these laws state that limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and cation of the electrolyte?,Nernst Equation,Kohlrausch law,Afbau Principle,Faraday’s law of electrolyte,2,,,,,,"[""Nernst Equation"",""Kohlrausch law"",""Afbau Principle"",""Faraday’s law of electrolyte""]",1,"""Which of these laws state that limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and cation of the electrolyte?"""
+What do we call the compounds formed by the linking of carbon by single bonds in between them?,Saturated compounds,Unsaturated compounds,Monovalent compounds,Ionic compounds,1,,,,,,"[""Saturated compounds"",""Unsaturated compounds"",""Monovalent compounds"",""Ionic compounds""]",0,"""What do we call the compounds formed by the linking of carbon by single bonds in between them?"""
+Which of the following gases is used to force ripening of the fruits?,Ethane,Ethylene,Methylene,Propene,,2,,,,,"[""Ethane"",""Ethylene"",""Methylene"",""Propene""]",1,"""Which of the following gases is used to force ripening of the fruits?"""
+Which of the following is an organic compound?,Carbon disulfide – CS2,Carbon monoxide – CO,Carbon tetrabromide – CBr4,Carbon tetrachloride – CCl4,4,,,,,,"[""Carbon disulfide – CS2"",""Carbon monoxide – CO"",""Carbon tetrabromide – CBr4"",""Carbon tetrachloride – CCl4""]",3,"""Which of the following is an organic compound?"""
+What do we get when we pass phenol vapours over zinc dust?,Methane,Ethene,Toluene,Benzene,,4,,,,,"[""Methane"",""Ethene"",""Toluene"",""Benzene""]",3,"""What do we get when we pass phenol vapours over zinc dust?"""
+What is the common name of But-2-yne?,Acetylene,Methylacetylene,Ethylacetylene,Dimethylacetylene,4,,,,,,"[""Acetylene"",""Methylacetylene"",""Ethylacetylene"",""Dimethylacetylene""]",3,"""What is the common name of But-2-yne?"""
+Which gas is produced when Sodium ethanoate is heated with Soda lime?,Methane,Ethane,Acetylene,Ethene,,1,,,,,"[""Methane"",""Ethane"",""Acetylene"",""Ethene""]",0,"""Which gas is produced when Sodium ethanoate is heated with Soda lime?"""
+Which of the following represents the mixture of carbon monoxide and nitrogen?,Coal tar,Producer gas,Water gas,All of the above,2,,,,,,"[""Coal tar"",""Producer gas"",""Water gas"",""All of the above""]",1,"""Which of the following represents the mixture of carbon monoxide and nitrogen?"""
+Which of the following features are considered for a compound to be aromatic?,Planarity,Complete delocalisation of the π electrons in the ring,Presence of (4n + 2) π electrons in the ring where n is an integer,All of the above,4,,,,,,"[""Planarity"",""Complete delocalisation of the π electrons in the ring"",""Presence of (4n + 2) π electrons in the ring where n is an integer"",""All of the above""]",3,"""Which of the following features are considered for a compound to be aromatic?"""
+Which of the following alkene shows structural isomerism?,Ethene,Propene,Butene,All of the above,3,,,,,,"[""Ethene"",""Propene"",""Butene"",""All of the above""]",2,"""Which of the following alkene shows structural isomerism?"""
+What do we call the polymers which have strong intermolecular forces between the chains?,Fibres,Elastomers,Thermoplastics,None of the above,1,,,,,,"[""Fibres"",""Elastomers"",""Thermoplastics"",""None of the above""]",0,"""What do we call the polymers which have strong intermolecular forces between the chains?"""
+Which of these is a Thermoplastic polymer?,Terylene,Polythene,PVC,All of the above,4,,,,,,"[""Terylene"",""Polythene"",""PVC"",""All of the above""]",3,"""Which of these is a Thermoplastic polymer?"""
+Which of this polymer is commonly used in making parachute ropes?,Bakelite,Nylon-66,Neoprene,SBR Show,,2,,,,,"[""Bakelite"",""Nylon-66"",""Neoprene"",""SBR Show""]",1,"""Which of this polymer is commonly used in making parachute ropes?"""
+What is the monomer unit of PMMA?,butyl methacrylate,ethyl methacrylate,methyl methacrylate,iso-propyl methacrylate,3,,,,,,"[""butyl methacrylate"",""ethyl methacrylate"",""methyl methacrylate"",""iso-propyl methacrylate""]",2,"""What is the monomer unit of PMMA?"""
+Which of the following is not a property of Nylon-66?,Nylon fibres have low tensile strength,Nylon fibres are resistant to abrasion,Nylon fibres are somewhat elastic in nature,All of the above,1,,,,,,"[""Nylon fibres have low tensile strength"",""Nylon fibres are resistant to abrasion"",""Nylon fibres are somewhat elastic in nature"",""All of the above""]",0,"""Which of the following is not a property of Nylon-66?"""
+What does decrease contribution of agriculture to GDP signifies?,Country is becoming poor,Country is becoming less developed,Country is becoming more developed,None of the above,3,,,,,,"[""Country is becoming poor"",""Country is becoming less developed"",""Country is becoming more developed"",""None of the above""]",2,"""What does decrease contribution of agriculture to GDP signifies?"""
+Who is the founder of Madras School of Economics?,Dr. Manmohan Singh,Dr. P.C.Mahalonibis,Dr. Raja Chelliah,Dr. C.Rangarajan,3,,,,,,"[""Dr. Manmohan Singh"",""Dr. P.C.Mahalonibis"",""Dr. Raja Chelliah"",""Dr. C.Rangarajan""]",2,"""Who is the founder of Madras School of Economics?"""
+"Which of the following is/are correct statements regarding the organized sector?
+1. They are controlled by the government.
+2. The employment terms are fixed.
+3. It provides Low wages.
+4. The sector is registered with the government.
+
+Choose the correct option from the choices given below:",1 and 2 only,2 and 3 only,1 and 4 only,All of the above,3,,,,,,"[""1 and 2 only"",""2 and 3 only"",""1 and 4 only"",""All of the above""]",2,"""Which of the following is/are correct statements regarding the organized sector?
+1. They are controlled by the government.
+2. The employment terms are fixed.
+3. It provides Low wages.
+4. The sector is registered with the government.
+
+Choose the correct option from the choices given below:"""
+Which is major cause of the poor development of India?,High population,Less ecports,Market imperfections,Poor infrastructure,1,,,,,,"[""High population"",""Less ecports"",""Market imperfections"",""Poor infrastructure""]",0,"""Which is major cause of the poor development of India?"""
+Which is not a characteristic of the Indian Economy?,Chronic Unemployment and Underemployment,High Poverty,Equal distribution of wealth,Low Labour Productivity,3,,,,,,"[""Chronic Unemployment and Underemployment"",""High Poverty"",""Equal distribution of wealth"",""Low Labour Productivity""]",2,"""Which is not a characteristic of the Indian Economy?"""
+What was the target of the first five-year plan?,Development of agriculture,Development of textile industry,Development of manufacturing,Removal of poverty,1,,,,,,"[""Development of agriculture"",""Development of textile industry"",""Development of manufacturing"",""Removal of poverty""]",0,"""What was the target of the first five-year plan?"""
+Which Five-year plan introduced the state secondary education boards?,5th,3rd,2nd,4th,,2,,,,,"[""5th"",""3rd"",""2nd"",""4th""]",1,"""Which Five-year plan introduced the state secondary education boards?"""
+Which five-year plan gave emphasis on the removal of poverty for the first time?,Fifth,Sixth,Seventh,Eight,,1,,,,,"[""Fifth"",""Sixth"",""Seventh"",""Eight""]",0,"""Which five-year plan gave emphasis on the removal of poverty for the first time?"""
+Who appoints the CEO of NITI Aayog?,Vice Chairman of NITI Aayog,Chairman of NITI Aayog,President,None of the above,2,,,,,,"[""Vice Chairman of NITI Aayog"",""Chairman of NITI Aayog"",""President"",""None of the above""]",1,"""Who appoints the CEO of NITI Aayog?"""
+India’s seed vault is located at which of the following locations?,Ladakh,Jammu,Tawang,Lipulekh,,1,,,,,"[""Ladakh"",""Jammu"",""Tawang"",""Lipulekh""]",0,"""India’s seed vault is located at which of the following locations?"""
+"In which of the following edicts Ashoka greets the Sangha and professes his deep faith in the Buddha, dhamma, and Sangha?",Minor Rock Edict 1,Minor Rock Edict 2,Minor Rock Edict 3,Minor Rock Edict 4,3,,,,,,"[""Minor Rock Edict 1"",""Minor Rock Edict 2"",""Minor Rock Edict 3"",""Minor Rock Edict 4""]",2,"""In which of the following edicts Ashoka greets the Sangha and professes his deep faith in the Buddha, dhamma, and Sangha?"""
+According to Kautilya which of the following was referred to as the Dharmapravakta?,King,Viceroy,Priest,Pativedakas,,1,,,,,"[""King"",""Viceroy"",""Priest"",""Pativedakas""]",0,"""According to Kautilya which of the following was referred to as the Dharmapravakta?"""
+"The Rajukas were assisted in accounting, secretarial, and other miscellaneous works by which of the following?",Yuktas,Pradeshikas,Sthanikas,Gopas,,1,,,,,"[""Yuktas"",""Pradeshikas"",""Sthanikas"",""Gopas""]",0,"""The Rajukas were assisted in accounting, secretarial, and other miscellaneous works by which of the following?"""
+Which of the following is an example of rock-cut architecture of the Mauryan period?,Dhauli caves,Sanchi Stupa,Bhimbhetka caves,Elephanta caves,1,,,,,,"[""Dhauli caves"",""Sanchi Stupa"",""Bhimbhetka caves"",""Elephanta caves""]",0,"""Which of the following is an example of rock-cut architecture of the Mauryan period?"""
+Which of the following kings was the last ruler of the Shunga dynasty?,Agnimitra,Devabhuti,Brihadratha,Pushyamitra shunga,2,,,,,,"[""Agnimitra"",""Devabhuti"",""Brihadratha"",""Pushyamitra shunga""]",1,"""Which of the following kings was the last ruler of the Shunga dynasty?"""
+Against which of the following kingdoms did Kharvela led successful campaigns?,Chola,Satvahana,Cheras,Pandyas,,2,,,,,"[""Chola"",""Satvahana"",""Cheras"",""Pandyas""]",1,"""Against which of the following kingdoms did Kharvela led successful campaigns?"""
+Which of the following were the first rulers in India to issue coins which can be definitely attributed to any dynasty?,Mauryans,Indo-Greeks,Shakas,Kushans,,2,,,,,"[""Mauryans"",""Indo-Greeks"",""Shakas"",""Kushans""]",1,"""Which of the following were the first rulers in India to issue coins which can be definitely attributed to any dynasty?"""
+Which of the following is the first known satrapa in the Western India?,Sodasha,Sivadatta,Nahapana,Bhumaka,,3,,,,,"[""Sodasha"",""Sivadatta"",""Nahapana"",""Bhumaka""]",2,"""Which of the following is the first known satrapa in the Western India?"""
+"The Prayag Prashasti divides Samudragupta’s opponents into which of the following categories?
+1. Rulers slain
+2. Frontier kings
+3. Rulers defeated
+4. Distant kings
+
+Select the correct option from the codes given below:",Only 1 and 2,Only 2 and 3,"Only 1, 2 and 3","1, 2, 3 and 4",,4,,,,,"[""Only 1 and 2"",""Only 2 and 3"",""Only 1, 2 and 3"",""1, 2, 3 and 4""]",3,"""The Prayag Prashasti divides Samudragupta’s opponents into which of the following categories?
+1. Rulers slain
+2. Frontier kings
+3. Rulers defeated
+4. Distant kings
+
+Select the correct option from the codes given below:"""
+"Which of the following were written by Kalidasa?
+1. Abhijananashakuntalam
+2. Malavikagnimitram
+3. Vikramorvasiyam
+
+Select the correct option from the codes given below:",Only 1,Only 1 and 2,Only 1 and 3,"1, 2 and 3",,4,,,,,"[""Only 1"",""Only 1 and 2"",""Only 1 and 3"",""1, 2 and 3""]",3,"""Which of the following were written by Kalidasa?
+1. Abhijananashakuntalam
+2. Malavikagnimitram
+3. Vikramorvasiyam
+
+Select the correct option from the codes given below:"""
+In the Sultanate period the governors of the provinces were known as?,Muqtis,Shiqdar,Amil,Patwari,,1,,,,,"[""Muqtis"",""Shiqdar"",""Amil"",""Patwari""]",0,"""In the Sultanate period the governors of the provinces were known as?"""
+"Which of the following statements are correct with respect to judicial system during the Sultanate period?
+1. A grand court was maintained and darbars held on a number of occasions.
+2. Everyone had free access to the sultan during the darbar.
+3. Decisions were taken according to the law of the Shariah for cases involving the Muslims.
+
+Select the correct option from the codes given below:",Only 1 and 2,Only 2 and 3,Only 1 and 3,"1, 2 and 3",,4,,,,,"[""Only 1 and 2"",""Only 2 and 3"",""Only 1 and 3"",""1, 2 and 3""]",3,"""Which of the following statements are correct with respect to judicial system during the Sultanate period?
+1. A grand court was maintained and darbars held on a number of occasions.
+2. Everyone had free access to the sultan during the darbar.
+3. Decisions were taken according to the law of the Shariah for cases involving the Muslims.
+
+Select the correct option from the codes given below:"""
+"Inland trade was dominated by which of the following during the Sultanate period?
+1. Gujarati
+2. Marwari
+3. Muslim Bohra merchants
+
+Select the correct option from the codes given below:",Only 1,Only 1 and 2,Only 2 and 3,"1, 2 and 3",,4,,,,,"[""Only 1"",""Only 1 and 2"",""Only 2 and 3"",""1, 2 and 3""]",3,"""Inland trade was dominated by which of the following during the Sultanate period?
+1. Gujarati
+2. Marwari
+3. Muslim Bohra merchants
+
+Select the correct option from the codes given below:"""
+How much tax was fixed on agricultural produce during the Sultanate period?,01-Mar,01-Apr,01-May,01-Jun,,1,,,,,"[""44256"",""44287"",""44317"",""44348""]",0,"""How much tax was fixed on agricultural produce during the Sultanate period?"""
+Which of the following built a palace in the Qila Rai Pithora and named it Qasr-i-Safed?,Qutbuddin Aibak,Iltutmish,Balban,None of the above,1,,,,,,"[""Qutbuddin Aibak"",""Iltutmish"",""Balban"",""None of the above""]",0,"""Which of the following built a palace in the Qila Rai Pithora and named it Qasr-i-Safed?"""
+"Which of the following are the features of Alai Darwaza?
+1. This gate was built by Alauddin Khilji in 1311 CE.
+2. It is the first building to employ Islamic principles of accurate construction and geometric ornamentation.
+3. The darwaza is a square, domed building with intricate carvings in red sandstone and marble.
+
+Select the correct option from the codes given below:",Only 1,Only 1 and 2,Only 2 and 3,"1, 2 and 3",,4,,,,,"[""Only 1"",""Only 1 and 2"",""Only 2 and 3"",""1, 2 and 3""]",3,"""Which of the following are the features of Alai Darwaza?
+1. This gate was built by Alauddin Khilji in 1311 CE.
+2. It is the first building to employ Islamic principles of accurate construction and geometric ornamentation.
+3. The darwaza is a square, domed building with intricate carvings in red sandstone and marble.
+
+Select the correct option from the codes given below:"""
+Virupaksha Raya was succeeded by which of the following kings?,Bukka Raya I,Deva Raya I,Harihara II,Bukka Raya II,4,,,,,,"[""Bukka Raya I"",""Deva Raya I"",""Harihara II"",""Bukka Raya II""]",3,"""Virupaksha Raya was succeeded by which of the following kings?"""
+"Which of the following are the works of Deva Raya II?
+1. Sobagina Sone
+2. Amaruka
+3. Mahanataka Sudhanidhi
+
+Select the correct option from the codes given below:",Only 1,Only 2,Only 1 and 3,"1, 2 and 3",,4,,,,,"[""Only 1"",""Only 2"",""Only 1 and 3"",""1, 2 and 3""]",3,"""Which of the following are the works of Deva Raya II?
+1. Sobagina Sone
+2. Amaruka
+3. Mahanataka Sudhanidhi
+
+Select the correct option from the codes given below:"""
+Which of the following acquired the title of Gajabetegara?,Deva Raya I,Deva Raya II,Krishna Deva Raya,Achyuta Deva Raya,2,,,,,,"[""Deva Raya I"",""Deva Raya II"",""Krishna Deva Raya"",""Achyuta Deva Raya""]",1,"""Which of the following acquired the title of Gajabetegara?"""
+Which of the following held the fort after the death of Saluva Narasimha for a brief period?,Narasa Nayaka,Immadi Narasimha,Qasim Barid,Saiuva Gunda,1,,,,,,"[""Narasa Nayaka"",""Immadi Narasimha"",""Qasim Barid"",""Saiuva Gunda""]",0,"""Which of the following held the fort after the death of Saluva Narasimha for a brief period?"""
+Who of the following was the first viceroy of India?,Lord Bentinck,Lord Canning,Lord Lytton,Lord Mountbatten,2,,,,,,"[""Lord Bentinck"",""Lord Canning"",""Lord Lytton"",""Lord Mountbatten""]",1,"""Who of the following was the first viceroy of India?"""
+"Who of the following viceroy was the first to use Peterhoff, the official residency of Viceroys in India?",Lord Mayo,Lord Elgin,Lord Lyton,Lord Northbrook,2,,,,,,"[""Lord Mayo"",""Lord Elgin"",""Lord Lyton"",""Lord Northbrook""]",1,"""Who of the following viceroy was the first to use Peterhoff, the official residency of Viceroys in India?"""
+Who of the following was appointed as the chief commissioner of Punjab after its annexation?,Lord Macaulay,Lord Lyton,Lord Lawrence,Lord Amherst,3,,,,,,"[""Lord Macaulay"",""Lord Lyton"",""Lord Lawrence"",""Lord Amherst""]",2,"""Who of the following was appointed as the chief commissioner of Punjab after its annexation?"""
+"Which among the following Tenancy Acts were passed during the time of Lord Dufferin?
+1. Bengal Tenancy Act
+2. Oudh Tenancy Act
+3. Punjab Tenancy Act
+
+Choose the correct option from the codes given below:",1 only,1 and 2,1 and 3,"1, 2 and 3",,4,,,,,"[""1 only"",""1 and 2"",""1 and 3"",""1, 2 and 3""]",3,"""Which among the following Tenancy Acts were passed during the time of Lord Dufferin?
+1. Bengal Tenancy Act
+2. Oudh Tenancy Act
+3. Punjab Tenancy Act
+
+Choose the correct option from the codes given below:"""
+Indian Coinage and Paper Currency act (1899) was passed during the time of which of the following viceroys?,Lord Ripon,Lord Lytton,Lord Hardinge II,Lord Curzon,,4,,,,,"[""Lord Ripon"",""Lord Lytton"",""Lord Hardinge II"",""Lord Curzon""]",3,"""Indian Coinage and Paper Currency act (1899) was passed during the time of which of the following viceroys?"""
+Indian Independence Committee was established in which year?,1914,1916,1920,1923,,1,,,,,"[""1914"",""1916"",""1920"",""1923""]",0,"""Indian Independence Committee was established in which year?"""
+Which of the following Act ended the recognition and activities of the British East India Company as a commercial body?,The Charter Act of 1813,The Charter Act of 1853,The Charter Act of 1833,Pitt’s India Act of 1784,3,,,,,,"[""The Charter Act of 1813"",""The Charter Act of 1853"",""The Charter Act of 1833"",""Pitt’s India Act of 1784""]",2,"""Which of the following Act ended the recognition and activities of the British East India Company as a commercial body?"""
+Which of the following act introduced bicameralism for the first time?,Government of India Act of 1919,Government of India Act of 1935,Charter Act of 1833,Charter Act of 1853,1,,,,,,"[""Government of India Act of 1919"",""Government of India Act of 1935"",""Charter Act of 1833"",""Charter Act of 1853""]",0,"""Which of the following act introduced bicameralism for the first time?"""
+"Which of the following amendments of the Nehru report proposed by Md. Ali Jinnah in 1928 is/ are correct?
+1. The central legislature must have 1/3rd representation of Muslims
+2. In Bengal and Punjab reservation of Muslim will be fixed proportionally with their population
+3. Residuary power should be vested on the provinces
+
+Choose the correct option from the codes given below:",1 only,1 and 3,2 and 3,"1, 2 and 3",,4,,,,,"[""1 only"",""1 and 3"",""2 and 3"",""1, 2 and 3""]",3,"""Which of the following amendments of the Nehru report proposed by Md. Ali Jinnah in 1928 is/ are correct?
+1. The central legislature must have 1/3rd representation of Muslims
+2. In Bengal and Punjab reservation of Muslim will be fixed proportionally with their population
+3. Residuary power should be vested on the provinces
+
+Choose the correct option from the codes given below:"""
+Gandhi Irwin Pact was signed on which date?,5th March 1931,5th March 1932,16th August 1931,16th August 1932,1,,,,,,"[""5th March 1931"",""5th March 1932"",""16th August 1931"",""16th August 1932""]",0,"""Gandhi Irwin Pact was signed on which date?"""
