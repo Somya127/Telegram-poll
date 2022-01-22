@@ -13,7 +13,7 @@ ANSWER=df['Answers'].tolist()
 updater.start_polling()
 for i in range(0,120):
     try:
-       updater.bot.send_poll(-1001323978617,question=QUESTIONS[i],options=OPTIONS[i], type=Poll.QUIZ,correct_option_id=ANSWER[i], is_anonymous=True)
+       updater.bot.send_poll(-1001345569302,question=QUESTIONS[i],options=OPTIONS[i], type=Poll.QUIZ,correct_option_id=ANSWER[i], is_anonymous=True)
        time.sleep(21600)
        # time.sleep(5)
     except:
